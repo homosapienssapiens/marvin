@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="images/hashira_cactus.png" width="300" height="300">
+  <img src="images/marvin.jpg">
 </p>
 
-# HASHIRA: Sensei virtual de documentación
+# M.A.R.V.I.N. 
+## Modelo de Androide Retórico Virtual Insoportable y Narcisista
 
 ## **Descripción**
 
